@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+
+textarea {
+    display: block;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+    width: 42vw;
+    height: 40vh;
+}
+.title {
+    font-size: 2em;
+    font-family: Arial, Tahoma, sans-serif;
+}
+
+button {
+    margin-right: 1vw;
+    font-size: 1.3em;
+    background-color: burlywood;
+}
